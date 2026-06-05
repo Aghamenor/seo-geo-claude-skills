@@ -93,7 +93,7 @@ When a user requests a performance report, use [Report Output Templates](https:/
 10. **Generate Recommendations** — Immediate, short-term, and long-term actions with priority, owner, expected impact, and next-period goals.
 11. **Compile Full Report** — Add table of contents, appendix, data sources, methodology, and glossary.
 
-Label every metric **Measured** (tool/export), **User-provided**, or **Estimated** (model inference); never present an estimate as measured; if a required metric is unavailable, mark it N/A — do not invent it.
+Label every metric **Measured** (tool/export), **User-provided**, or **Estimated** (model inference); never present an estimate as measured; if a required metric is unavailable, mark it N/A — do not invent it. Likewise separate an **observed change** from a **plausible explanation** (corroborate before stating it as the cause), an **optimization opportunity**, and **follow-up** needing crawl/SERP/rank/audit — never report an unverified explanation as a confirmed cause.
 
 ## Example
 
